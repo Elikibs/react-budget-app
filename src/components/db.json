@@ -1,0 +1,14 @@
+{
+    "expenses": [
+      {
+        "expense": "movies",
+        "cost": 500,
+        "id": 1
+      },
+      {
+        "expense": "rent",
+        "cost": 1000,
+        "id": 2
+      }
+    ]
+  }

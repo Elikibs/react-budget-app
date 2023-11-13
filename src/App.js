@@ -8,6 +8,7 @@ import ExpenseList from './components/ExpenseList';
 import AddExpenseForm from './components/AddExpenseForm';
 import RemainingBudget from './components/Remaining';
 
+// main app component
 const App = () => {
 	return (
 		<AppProvider>

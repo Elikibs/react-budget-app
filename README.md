@@ -40,4 +40,4 @@ To run the project locally:
 Upon opening the application, users are greeted with a dashboard presenting their budget details, expense summaries, and options to add new expenses.
 The application relies on the AppContext for state management across components.
 Styling is primarily handled through Bootstrap, ensuring a clean and responsive interface.
-The UI is 
+The UI is  therefore 

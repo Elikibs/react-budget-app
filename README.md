@@ -1,7 +1,10 @@
 # My Budget Planner
 
 ## Author
-This react web app is created by Elisha Kibet
+This react web app was created by Elisha Kibet
+
+## License
+Licensed by MIT and copyright reserved for Elisha Kibet
 
 ## Project Overview
 The My Budget Planner is a React-based application designed to assist users in managing and monitoring their budgets and expenses. The application offers various features to facilitate effective budget planning.

@@ -3,6 +3,8 @@ import ViewBudget from './ViewBudget';
 import EditBudget from './EditBudget';
 import { AppContext } from '../context/AppContext';
 
+
+// the budget component rendering
 const Budget = () => {
 	const { budget, dispatch } = useContext(AppContext);
 	const [isEditing, setIsEditing] = useState(false);

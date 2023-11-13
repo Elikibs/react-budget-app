@@ -1,3 +1,4 @@
+// appcontext used for managing the context
 import React, { createContext, useReducer } from 'react';
 import { v4 as uuidv4 } from 'uuid';
 
